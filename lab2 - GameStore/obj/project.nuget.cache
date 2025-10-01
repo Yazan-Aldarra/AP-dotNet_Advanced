@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tIkdZVNKeN4=",
+  "dgSpecHash": "tIPgQBkjKHQ=",
   "success": true,
-  "projectFilePath": "C:\\Users\\yazan\\OneDrive\\سطح المكتب\\AP Hogeschool\\jaar 2\\.Net Advanced\\lab2 - GameStore\\lab2 - GameStore.csproj",
+  "projectFilePath": "C:\\Users\\yazan\\OneDrive\\سطح المكتب\\AP Hogeschool\\AP-J2\\.Net Advanced\\lab2 - GameStore\\lab2 - GameStore.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\yazan\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\yazan\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
