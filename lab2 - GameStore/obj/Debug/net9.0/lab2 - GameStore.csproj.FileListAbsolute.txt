@@ -1,0 +1,8 @@
+C:\Users\yazan\OneDrive\سطح المكتب\AP Hogeschool\jaar 2\.Net Advanced\lab2 - GameStore\obj\Debug\net9.0\lab2 - GameStore.csproj.AssemblyReference.cache
+C:\Users\yazan\OneDrive\سطح المكتب\AP Hogeschool\jaar 2\.Net Advanced\lab2 - GameStore\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\yazan\OneDrive\سطح المكتب\AP Hogeschool\jaar 2\.Net Advanced\lab2 - GameStore\obj\Debug\net9.0\lab2 - GameStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yazan\OneDrive\سطح المكتب\AP Hogeschool\jaar 2\.Net Advanced\lab2 - GameStore\obj\Debug\net9.0\lab2 - GameStore.AssemblyInfoInputs.cache
+C:\Users\yazan\OneDrive\سطح المكتب\AP Hogeschool\jaar 2\.Net Advanced\lab2 - GameStore\obj\Debug\net9.0\lab2 - GameStore.AssemblyInfo.cs
+C:\Users\yazan\OneDrive\سطح المكتب\AP Hogeschool\jaar 2\.Net Advanced\lab2 - GameStore\obj\Debug\net9.0\lab2 - GameStore.csproj.CoreCompileInputs.cache
+C:\Users\yazan\OneDrive\سطح المكتب\AP Hogeschool\jaar 2\.Net Advanced\lab2 - GameStore\obj\Debug\net9.0\lab2 - GameStore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\yazan\OneDrive\سطح المكتب\AP Hogeschool\jaar 2\.Net Advanced\lab2 - GameStore\obj\Debug\net9.0\lab2 - GameStore.sourcelink.json

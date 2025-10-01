@@ -20,8 +20,28 @@ EF core is een ORM object relational Mapper
  dotnet add package Microsoft.EntityFrameworkCore.Tools
 
 ```
+
+```bash
+    dotnet ef migrations add InitialCreate
+    dotnet ef database update
+```
+
+
 Connections string zitten in appssetting.json:
 ```json
     "ConnectionString": ""
 ```
 
+```csharp
+    // Attributes
+
+    [Required]
+    [NotMapped] 
+    [MinLength()]
+    [MinLength()]
+    [Table("tblName", Schema="SchemaName")]
+    public class className {}
+    [Column("ColumnName", TypeName="Date")]
+
+    
+```
