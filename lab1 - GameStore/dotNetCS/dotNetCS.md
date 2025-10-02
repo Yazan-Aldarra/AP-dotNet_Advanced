@@ -29,7 +29,9 @@ EF core is een ORM object relational Mapper
 
 Connections string zitten in appssetting.json:
 ```json
-    "ConnectionString": ""
+    "ConnectionStrings": {
+        "DefaultConnection": "Server=(localdb)\\mssqllocaldb;Database=GameStore;Trusted_Connection=True;"
+    }
 ```
 
 ```csharp
