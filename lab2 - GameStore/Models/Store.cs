@@ -11,5 +11,4 @@ public class Store
     public string City { get; set; }
     public bool isFranchiseStore { get; set; }
 
-    private List<Person> staff { get; set; }
 }
